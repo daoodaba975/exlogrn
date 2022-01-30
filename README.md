@@ -19,7 +19,7 @@ You will just need to adapt it according to your needs.
 
 ## Usage ℹ️
 
-Click on the **[Use this template]()** button on this page to clone this respository to your GitHub account or you can clone this respository.
+Click on the **[Use this template](https://github.com/daoodaba975/exlogrn/generate)** button on this page to clone this respository to your GitHub account or you can clone this respository.
 
 - **Install dependencies**
 
