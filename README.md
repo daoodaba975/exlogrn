@@ -1,6 +1,6 @@
 # React Native Expo Login 🚀
 
-A simple React Native Expo Login template starter app.  
+A React Native / Expo Login template starter app.
 
 ![all-screens](screenshots/all-screens.png)
 
@@ -21,21 +21,19 @@ You will just need to adapt it according to your needs.
 
 Click on the **[Use this template](https://github.com/daoodaba975/exlogrn/generate)** button on this page to clone this respository to your GitHub account or you can clone this respository.
 
-- **Install dependencies**
+1. Install dependencies
 
-```js
-npm install // using Npm
-// or
-yarn install // using Yarn
-```
+   ```bash
+   npm install
+   ```
 
-- **Run project**
+2. Start the app
 
-```js
-expo start
-// or
-make r // if you have MAKE installed
-```
+   ```bash
+    npx expo start
+   ```
+
+You can take a look on Expo's [Docs](https://docs.expo.dev)
 
 ### Licence 🚨
 
