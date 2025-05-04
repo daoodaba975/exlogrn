@@ -15,7 +15,7 @@ import {
 import { MaterialIcons } from "@expo/vector-icons";
 import React, { useState, useEffect } from "react";
 import List1 from "./List1";
-import Api_fetched_file from "./Api_fetched_file";
+import Api_fetched_file from "./api_fetched_file";
 import { NavigationProp, useNavigation } from "@react-navigation/native";
 import ReactiveButton from "reactive-button";
 import Reduxuse from "../redux/Reduxuse";
@@ -120,7 +120,7 @@ const list = () => {
       <View style={styles.logic}>
         <TextInput
           style={{ color: "white" }}
-          placeholder="What do you want to do?"
+          placeholder="What do you want to do"
           placeholderTextColor="white"
           onChangeText={setText}
           value={text}

@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { decrement, increment, reset } from './slice/Slice';
 
 const Main = () => {
-    const counting=useSelector((state) => state.counter.value);
+    const counting = useSelector((state: { counter: { value: number } }) => state.counter.value);
     const dispatch=useDispatch();
   return (
     <View>
